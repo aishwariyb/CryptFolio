@@ -1,0 +1,5 @@
+<div class="navbar-inner text-white col-lg-12" style="font-size:13px">
+<div class="pull-left" style="float:left">&copy <%= Time.now.year%> All Rights Reserved</div>
+
+<div class="pull-right" style="float:right; text-align:right"> Powered by <a href="https://coinlib.io/apidocs">Coinlib API</a></div>
+</div>
